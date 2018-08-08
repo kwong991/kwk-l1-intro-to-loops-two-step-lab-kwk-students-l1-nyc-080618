@@ -54,16 +54,16 @@ def how_many_steps?
 
 
 
-puts steps
-steps = steps + 1
+# puts steps
+# steps = steps + 1
 
-if steps%2 
-  puts "Left"
-else 
-  puts "Right"
-sleep (0.5)
+# if steps%2 
+#   puts "Left"
+# else 
+#   puts "Right"
+# sleep (0.5)
 end
-  
+end   
 
 
 
