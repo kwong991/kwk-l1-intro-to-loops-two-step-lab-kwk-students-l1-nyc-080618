@@ -63,7 +63,7 @@ def how_many_steps?
 #   puts "Right"
 # sleep (0.5)
 end
-how_many_steps
+
 
 
 
