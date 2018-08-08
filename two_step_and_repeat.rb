@@ -37,6 +37,7 @@ loop do
   
 end
 a_few_more_steps
+
 def how_many_steps?
   # Write a loop that fulfills all criteria from Part 3 of the README.md
   #steps = 0 
@@ -62,7 +63,7 @@ def how_many_steps?
 # else 
 #   puts "Right"
 # sleep (0.5)
-end
+
 
 
 
