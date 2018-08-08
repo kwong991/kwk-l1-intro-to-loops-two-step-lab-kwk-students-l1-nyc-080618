@@ -51,7 +51,6 @@ def how_many_steps?
       puts 'Right'
     end
     sleep(0.5)
-    break
   end
 
 
